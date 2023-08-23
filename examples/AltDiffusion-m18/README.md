@@ -60,3 +60,20 @@ checkpoint we used is SD v2.1 512-base-ema. We also use Xformer and Efficient At
 - FlagAI: https://github.com/FlagAI-Open/FlagAI
 
 - Stable Diffusion: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+## 引用
+关于AltDiffusion，我们已经推出了相关报告，有更多细节可以查阅，如对您的工作有帮助，欢迎引用。
+
+If you find this work helpful, please consider to cite
+```
+@article{https://doi.org/10.48550/arxiv.2211.06679,
+  doi = {10.48550/ARXIV.2211.06679},
+  url = {https://arxiv.org/abs/2211.06679},
+  author = {Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
+  title = {AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
