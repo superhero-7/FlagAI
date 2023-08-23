@@ -143,6 +143,24 @@ Note: The long image generation technology here is provided by Right Brain Techn
 One prompts in different Languages generate different faces!!!
 
 ![image](imgs/m9.png)
+
+## 引用
+关于AltDiffusion，我们已经推出了相关报告，有更多细节可以查阅，如对您的工作有帮助，欢迎引用。
+
+If you find this work helpful, please consider to cite
+```
+@article{https://doi.org/10.48550/arxiv.2211.06679,
+  doi = {10.48550/ARXIV.2211.06679},
+  url = {https://arxiv.org/abs/2211.06679},
+  author = {Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
+  title = {AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
+
 # 许可/License
 
 该模型通过 [CreativeML Open RAIL-M license](https://huggingface.co/spaces/CompVis/stable-diffusion-license) 获得许可。作者对您生成的输出不主张任何权利，您可以自由使用它们并对它们的使用负责，不得违反本许可中的规定。该许可证禁止您分享任何违反任何法律、对他人造成伤害、传播任何可能造成伤害的个人信息、传播错误信息和针对弱势群体的任何内容。您可以出于商业目的修改和使用模型，但必须包含相同使用限制的副本。有关限制的完整列表，请[阅读许可证](https://huggingface.co/spaces/CompVis/stable-diffusion-license) 。
