@@ -29,15 +29,13 @@ The model code has been open sourced on [FlagAI](https://github.com/FlagAI-Open/
 
 If you find this work helpful, please consider to cite
 ```
-@article{https://doi.org/10.48550/arxiv.2211.06679,
-  doi = {10.48550/ARXIV.2211.06679},
-  url = {https://arxiv.org/abs/2211.06679},
-  author = {Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
-  title = {AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@misc{ye2023altdiffusion,
+      title={AltDiffusion: A Multilingual Text-to-Image Diffusion Model}, 
+      author={Fulong Ye and Guang Liu and Xinya Wu and Ledell Wu},
+      year={2023},
+      eprint={2308.09991},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
